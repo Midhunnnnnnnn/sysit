@@ -1,26 +1,12 @@
 
 <div align="center">
   <h1 align="center">Synthtrek</h1 >
-    <img src="https://i.ibb.co/X7N17ps/main.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
   <h3>AI-Based Trip Planner</h3>
 
-  <p align="center">
-    Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
-    <br />
-    <br/>
-     <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
-     <br />
-     <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
-    <br />
-    <br />
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
-    <br />
-    <br />
-<!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
-<!--     • -->
-    <a href="https://github.com/Midhunnnnnnnn/sysit/issues">Report Bug</a>
+ 
+
   </p>
 </div>
 </br>
@@ -31,15 +17,6 @@
 </div>
 
 
-<div class="sampleImages" align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <a href="https://ibb.co/gRX4Bcx"><img src="https://i.ibb.co/X7N17ps/main.png" alt="image" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/f1zjdLn"><img src="https://i.ibb.co/TbHgn5W/form.png" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/yySg2kP"><img src="https://i.ibb.co/QDkGLrS/trip.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/26srCZS"><img src="https://i.ibb.co/bPcmZwX/all.png" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;"></a>
-<!--     <a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
-<!--     <a href="https://ibb.co/r5MtJxg"><img src="https://i.ibb.co/zPb5wX1/image-4.png" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
-</div>
-</br>
 
 **SynthTrek** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
 
