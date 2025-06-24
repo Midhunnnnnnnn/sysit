@@ -84,7 +84,7 @@ function Hero({ heroRef }) {
       ref={heroRef}
       className="flex items-center flex-col text-center justify-center min-h-screen py-10"
     >
-       <video autoPlay loop muted playsInline className="absolute z-[-1] w-full h-full object-cover" src="/public/vid/nigj.mp4">
+       <video autoPlay loop muted playsInline className="absolute z-[-1] w-full h-full object-cover" src="/vid/nigj.mp4">
 
         Your browser does not support the video tag.
       </video>
