@@ -22,7 +22,7 @@ SynthTrek aims to improve your travel experience through a simple, user-friendly
 
 This project is built using popular tools and services like:
 
-- React
+- Vite
 - Google Maps API
 - Gemini AI
 - Auth0
